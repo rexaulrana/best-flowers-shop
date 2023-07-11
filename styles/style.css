@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+}
+
+.header-container{
+    height: 100vh;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 5px 50px ;
+}
+
+.header-img{
+    width: 380px;
+    height: 450px;
+
+}
+
+.header-title{
+    color: #272727;
+font-family: Lato;
+font-size: 50px;
+font-style: normal;
+font-weight: 800;
+}
+
+.header-description{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin: 5px 0;
+}
+
+.btn-primary{
+border-style: none;
+    padding: 10px ;
+    border-radius: 8px;
+background: #E55473;
+color: white;
+}
