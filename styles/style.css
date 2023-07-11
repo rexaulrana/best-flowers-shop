@@ -68,18 +68,20 @@
 
 .feature-flowers {
   display: flex;
-  justify-content: space-evenly;
-  /* gap: 5px; */
+  justify-content: center;
+  gap: 5px;
   text-align: center;
 }
 .flower-img {
-  height: 200px;
-  width: 200px;
+  height:140px;
+  width: 150px;
+  padding: 15px;
 }
 
 .first-flower {
   background-color: rgba(167, 33, 98, 0.15);
   border-radius: 100% 100% 0 0;
+
 }
 
 .second-flower {
@@ -187,6 +189,7 @@ font-size: 40px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
+padding-top: 30px;
 }
 .latest-deal-description{
     color: rgba(39, 39, 39, 0.60);
@@ -220,6 +223,12 @@ margin-bottom: 2px;
   text-align: center;
   background-color: rgb(228, 191, 145);
   padding: 10px;
+}
+.list-title{
+  font-size: 40px;
+  padding: 10px;
+  margin-bottom: 5px;
+  text-decoration: underline;
 }
 
 .footer-container{
