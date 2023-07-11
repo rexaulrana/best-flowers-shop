@@ -212,10 +212,49 @@ margin-bottom: 2px;
   align-items: center;
   margin-top: 5px;
   margin-bottom: 5px;
+  cursor:pointer;
 }
 
 .flowers-list-container{
   text-align: center;
   background-color: rgb(228, 191, 145);
   padding: 10px;
+}
+
+.footer-container{
+  background-color: rgb(36, 36, 36);
+ padding: 50px;
+  text-align: center;
+}
+
+.footer-title{
+  color:white;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding: 5px;
+}
+
+.sub-title{
+  color: #e55473;
+}
+
+.footer-description{
+  color: rgba(254, 249, 249, 0.9);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.copy-right{
+  color: rgba(241, 233, 233, 0.4);
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
