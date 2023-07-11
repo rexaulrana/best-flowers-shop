@@ -14,7 +14,7 @@
 
 .header-img {
   width: 380px;
-  height: 450px;
+  height: 485px;
 }
 
 .header-title {
@@ -32,6 +32,7 @@
   font-style: normal;
   font-weight: 400;
   margin: 5px 0;
+  width: 410px;
 }
 
 .btn-primary {
