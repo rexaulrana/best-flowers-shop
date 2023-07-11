@@ -205,3 +205,17 @@ margin-bottom: 2px;
 }
 
 /* latest deal section end */
+
+.flowers-list{
+  display: flex;
+  justify-content:space-evenly;
+  align-items: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.flowers-list-container{
+  text-align: center;
+  background-color: rgb(228, 191, 145);
+  padding: 10px;
+}
